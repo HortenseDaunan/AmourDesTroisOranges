@@ -1320,6 +1320,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7434978683568069092, guid: 880b6e63c0c026d47aeb7c7b2c795979, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 265
+      objectReference: {fileID: 0}
+    - target: {fileID: 7434978683568069092, guid: 880b6e63c0c026d47aeb7c7b2c795979, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 231
+      objectReference: {fileID: 0}
+    - target: {fileID: 7434978683568069092, guid: 880b6e63c0c026d47aeb7c7b2c795979, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.6
       objectReference: {fileID: 0}
@@ -1337,8 +1345,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7434978683568069092, guid: 880b6e63c0c026d47aeb7c7b2c795979, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 370
+      value: 394
       objectReference: {fileID: 0}
+    - target: {fileID: 7761800068856754850, guid: 880b6e63c0c026d47aeb7c7b2c795979, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: b63bc0389530d9f49861d34433e357bb, type: 3}
     - target: {fileID: 8993516268540863202, guid: 880b6e63c0c026d47aeb7c7b2c795979, type: 3}
       propertyPath: m_SortingOrder
       value: 0
