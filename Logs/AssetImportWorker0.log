@@ -378,3 +378,156 @@ Received Import Request.
 Start importing Assets/3D/DecoBook/DecoBook2 1.mat using Guid(5c3069d752981df4abdd2fc4207e3801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e71f035451b20199599305ba4cfeb31') in 0.074534 seconds 
   Import took 0.079196 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 187.733140 seconds.
+  path: Assets/3D/Book/BOOK_normals.jpg
+  artifactKey: Guid(d70d7582aa3a1f04b902be0225821b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Book/BOOK_normals.jpg using Guid(d70d7582aa3a1f04b902be0225821b36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b992b9185aa3904d134d21a1e1a7639') in 0.055074 seconds 
+  Import took 0.070333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000472 seconds.
+  path: Assets/3D/Book/BOOK_occlusion.jpg
+  artifactKey: Guid(097d4f42056b18146a192711ae282746) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Book/BOOK_occlusion.jpg using Guid(097d4f42056b18146a192711ae282746) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8792a536d6ef999edc8367afb4365089') in 0.074480 seconds 
+  Import took 0.079060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.440435 seconds.
+  path: Assets/3D/Book/book.mat
+  artifactKey: Guid(00854c20311e8a14084faa749044edb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Book/book.mat using Guid(00854c20311e8a14084faa749044edb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b747260e9388a6ee0a5108b5788d84a') in 0.409305 seconds 
+  Import took 0.414169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 308.576987 seconds.
+  path: Assets/3D/Bougie/UV_Bougie (3).psd
+  artifactKey: Guid(1bc03e4cf25c7ab4a81f0269010962ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Bougie/UV_Bougie (3).psd using Guid(1bc03e4cf25c7ab4a81f0269010962ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7beec16ccc9b6df67b91f944e9e76fb4') in 0.081249 seconds 
+  Import took 0.085358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.393703 seconds.
+  path: Assets/3D/Bougie/UV_Bougie (3).psd
+  artifactKey: Guid(1bc03e4cf25c7ab4a81f0269010962ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Bougie/UV_Bougie (3).psd using Guid(1bc03e4cf25c7ab4a81f0269010962ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd4384c59fdc4cceaee85da29ef93d1a') in 0.059753 seconds 
+  Import took 0.064889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 287.761494 seconds.
+  path: Assets/3D/DecoBook/Bookdeco__normals.jpg
+  artifactKey: Guid(7d586878228807b40842e5dcb9fcc7e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/DecoBook/Bookdeco__normals.jpg using Guid(7d586878228807b40842e5dcb9fcc7e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8d0bcbd9db0b53a8c0283d78e4dbb55') in 0.053879 seconds 
+  Import took 0.059585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/3D/DecoBook/Bookdeco__occlusion.jpg
+  artifactKey: Guid(7d9a24719f6d42e47b370cee854cfd5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/DecoBook/Bookdeco__occlusion.jpg using Guid(7d9a24719f6d42e47b370cee854cfd5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3737a01bc4c4078cb6bf4e7bdf004a0') in 0.060513 seconds 
+  Import took 0.064211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.714528 seconds.
+  path: Assets/3D/DecoBook/DecoBook.mat
+  artifactKey: Guid(bb0278909c445df4aa60f1770efbe4cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/DecoBook/DecoBook.mat using Guid(bb0278909c445df4aa60f1770efbe4cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5252c5e1a7ce5dc932fba6443f3cfc76') in 0.154513 seconds 
+  Import took 0.161172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/3D/DecoBook/DecoBook2.mat
+  artifactKey: Guid(879aecbfc64de854ca0805a603d78520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/DecoBook/DecoBook2.mat using Guid(879aecbfc64de854ca0805a603d78520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '158169101a6be689614b621dc94068b0') in 0.155853 seconds 
+  Import took 0.160510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/3D/DecoBook/DecoBook2 1.mat
+  artifactKey: Guid(5c3069d752981df4abdd2fc4207e3801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/DecoBook/DecoBook2 1.mat using Guid(5c3069d752981df4abdd2fc4207e3801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11e5708cd3ac2c09975b78211954615e') in 0.148419 seconds 
+  Import took 0.152013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.229923 seconds.
+  path: Assets/3D/DecoBook/Bookdeco__normals.jpg
+  artifactKey: Guid(7d586878228807b40842e5dcb9fcc7e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/DecoBook/Bookdeco__normals.jpg using Guid(7d586878228807b40842e5dcb9fcc7e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d761d42fd8fe496482d219cd702ddd5') in 0.048575 seconds 
+  Import took 0.051761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 459.066347 seconds.
+  path: Assets/3D/DecoBook
+  artifactKey: Guid(056cc266f295e8e4e84b059b28ef82bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/DecoBook using Guid(056cc266f295e8e4e84b059b28ef82bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e6eb56ea91ff64068d788ed70d43d56') in 0.006958 seconds 
+  Import took 0.011360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.629224 seconds.
+  path: Assets/3D/DecoBook/Rouge
+  artifactKey: Guid(d1221414662c4fd44a0aa3bc7f67e5bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/DecoBook/Rouge using Guid(d1221414662c4fd44a0aa3bc7f67e5bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0052fe5516d955e6fa0a00d03ba832b') in 0.004920 seconds 
+  Import took 0.009255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.580383 seconds.
+  path: Assets/3D/DecoBook/Bleu
+  artifactKey: Guid(93c01fe02c0ccc14ab76a60857f2f983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/DecoBook/Bleu using Guid(93c01fe02c0ccc14ab76a60857f2f983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cca07e0f358ef6a02f77884e03bc3728') in 0.006356 seconds 
+  Import took 0.009406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.697125 seconds.
+  path: Assets/3D/DecoBook/Jaune
+  artifactKey: Guid(1d09850952b1ac64eb0d3cee9aec4c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/DecoBook/Jaune using Guid(1d09850952b1ac64eb0d3cee9aec4c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38beb120df4fbdb0f89814af65d4c1b0') in 0.006813 seconds 
+  Import took 0.023190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.812827 seconds.
+  path: Assets/3D/DecoBook/Bleu/Bougie_normals.jpg
+  artifactKey: Guid(1c50c1eee59b42045bcc768b7288c4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/DecoBook/Bleu/Bougie_normals.jpg using Guid(1c50c1eee59b42045bcc768b7288c4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '858eb42b0fc66b69b85ba4f738af8d69') in 0.053930 seconds 
+  Import took 0.058111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/3D/DecoBook/Bleu/Bougie_occlusion.jpg
+  artifactKey: Guid(84ca25b276d238a49ab3e1e31e6a6b8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/DecoBook/Bleu/Bougie_occlusion.jpg using Guid(84ca25b276d238a49ab3e1e31e6a6b8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da1f156bc310b8219d148ee728887d8a') in 0.077051 seconds 
+  Import took 0.092155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.329207 seconds.
+  path: Assets/3D/Bougie/Light.mat
+  artifactKey: Guid(50ee4487fb93355429be682af0106ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Bougie/Light.mat using Guid(50ee4487fb93355429be682af0106ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78664c53ca7e7552af4b050eca38d9f7') in 0.203406 seconds 
+  Import took 0.220655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.264229 seconds.
+  path: Assets/3D/Bougie/Bougie_normals.jpg
+  artifactKey: Guid(1c50c1eee59b42045bcc768b7288c4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D/Bougie/Bougie_normals.jpg using Guid(1c50c1eee59b42045bcc768b7288c4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08babd7d5465510b14c6f50e3fc87797') in 0.052827 seconds 
+  Import took 0.056438 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
