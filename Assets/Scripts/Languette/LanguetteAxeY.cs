@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.EventSystems;
 
 public class LanguetteAxeY : MonoBehaviour
@@ -12,6 +13,8 @@ public class LanguetteAxeY : MonoBehaviour
 
     public float posMin = 0f;
     public float posMax = 1f;
+
+    public UnityEvent <float> onDrag; 
 
     public void DragLang(BaseEventData data)
     {
@@ -51,6 +54,10 @@ public class LanguetteAxeY : MonoBehaviour
                         activated = true;
                     }
                 }
+
+                //Avancé de la languette entre 0 et 1
+                float pourcentage = (transform.position.y - posMin) / (posMax - posMin);
+                onDrag.Invoke(pourcentage);
             }
         }
         
