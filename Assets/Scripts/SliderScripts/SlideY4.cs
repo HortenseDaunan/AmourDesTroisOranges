@@ -26,7 +26,7 @@ public class SlideY4 : MonoBehaviour
     {
         if (done == false)
         {
-            if (gameObject.GetComponent<LanguetteAxeX>().activated == true)
+            if (gameObject.GetComponent<LanguetteAxeY>().activated == true)
             {
                 StartCoroutine(action());
                 done = true;

@@ -6,8 +6,10 @@ using UnityEngine.EventSystems;
 public class LanguetteAxeY : MonoBehaviour
 {
     [SerializeField] private GameObject imageLang = null;
+
     public bool activated = false;
     public bool goingdown = false;
+
     public float posMin = 0f;
     public float posMax = 1f;
 
@@ -15,14 +17,17 @@ public class LanguetteAxeY : MonoBehaviour
     {
         if (activated == false)
         {
+
             float imageLangY;
-            Debug.Log(activated);
+
+
             if (transform.position.y >= posMin && transform.position.y <= posMax)
             {
                 imageLangY = imageLang.transform.position.y - transform.position.y;
                 Vector3 decalPosY = new Vector3(0f, Input.touches[0].deltaPosition.y, 0f);
                 transform.position += decalPosY;
                 imageLang.transform.position += decalPosY;
+
 
                 //POSITION MIN
                 if (transform.position.y < posMin)
@@ -34,6 +39,7 @@ public class LanguetteAxeY : MonoBehaviour
                         activated = true;
                     }
                 }
+
 
                 //POSITION MAXI
                 if (transform.position.y > posMax)

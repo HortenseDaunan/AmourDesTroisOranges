@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 2582762315467095216}
   - component: {fileID: -6698051722095843010}
   - component: {fileID: 3244685145541731401}
+  - component: {fileID: 5868871654344385588}
   m_Layer: 5
   m_Name: LanguetteX
   m_TagString: Untagged
@@ -91,6 +92,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   imageLang: {fileID: 2577465902544203767}
+  activated: 0
+  goingdown: 0
+  posMin: 0
+  posMax: 1
 --- !u!114 &-6698051722095843010
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -146,3 +151,17 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &5868871654344385588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2577465902544203767}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13e7cbdd48f0095439f41d0731b5c624, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Illustrations: []
+  ImageContainer: {fileID: 0}
